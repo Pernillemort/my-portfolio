@@ -1,0 +1,58 @@
+{
+    "skills": [
+        {
+            "id": "1",
+            "src": "./img/product-chain-1.png",
+            "title": "UX and UI design",
+            "description": "I have gained in-depth knowledge in creating user-centered designs by thoroughly understanding user behaviors, goals, and pain points, allowing me to craft intuitive and accessible interfaces that prioritize usability, visual clarity, and a seamless overall experience.",
+            "extendedDescription": "I have developed strong expertise in user-centered design, focusing on creating digital experiences that are intuitive, accessible, and visually engaging. My UX process involves conducting user research, crafting user personas, wireframing, and prototyping to ensure that each solution is tailored to real user needs. On the UI side, I pay close attention to layout, typography, color theory, and interactive elements to build interfaces that not only look polished but also enhance usability. I strive to strike the perfect balance between form and function, ensuring that every design decision supports both the user experience and business goals."
+        },
+        {
+            "id": "2",
+            "src": "./img/tag-1.png",
+            "title": "Front-end",
+            "description": "I have learned to develop the client-side of web applications using languages such as HTML, CSS, and JavaScript. This involves building responsive, interactive interfaces that users directly engage with.",
+            "extendedDescription": "I have experience implementing modern design principles, interactive components, and smooth animations to enhance user engagement. Additionally, I’ve worked with frameworks like React to build dynamic, component-based user interfaces that support scalability and maintainability in real-world applications."
+        },
+        {
+            "id": "3",
+            "src": "./img/feather-pen-2.png",
+            "title": "Back-end",
+            "description": "I have acquired basic skills in server-side programming and database management, enabling me to handle data processing, storage, and the logic behind web applications.",
+            "extendedDescription": "This includes working with backend technologies such as Node.js and Express to create APIs, manage server responses, and ensure secure and efficient data transactions. I’ve also gained experience with databases like MongoDB and SQL, allowing me to structure, query, and maintain data effectively. These skills support the development of full-stack applications where front-end and back-end components work together seamlessly."           
+        },
+        {
+            "id": "4",
+            "src": "./img/feather-pen-1.png",
+            "title": "Group based work",
+            "description": "I have experience collaborating effectively within teams, contributing to project planning, communication, and problem-solving to achieve common goals efficiently.",
+            "extendedDescription": "My teamwork approach includes participating in agile development processes such as sprint planning and retrospectives, using tools like Trello, Jira, and Git for version control and task management. I actively contribute ideas, listen to diverse perspectives, and support team members to foster a positive and productive working environment that drives project success."
+        }
+    ],
+     "portfolio": [
+        {
+            "id": "1",
+            "src": "./img/Stepulake.png",
+            "title": "VRStepulake",
+            "description": "VRStepulake is a collaborative project with Gentofte and Herlev Hospital, aimed at supporting elderly patients with vestibular dysfunction. The project focused on integrating virtual reality (VR) into existing rehabilitation protocols to enhance engagement and effectiveness. We developed a reactive stepping exercise in which users step onto virtual lily pads in a predetermined pattern, promoting balance training and spatial coordination.",
+            "link": "Want to know more?",
+            "pdf": "/pdfs/Bachelor_ShortPaper.pdf"
+        },
+        {
+            "id": "2",
+            "src": "./img/VRehabilitation.png",
+            "title": "VRehabilitation",
+            "description": "VRehabilitation is a virtual reality program designed to support at-home rehabilitation by motivating patients to perform prescribed exercises in a safe, clinically guided environment. The system features a customizable physiotherapy setting where users receive personalized instructions from a virtual physiotherapist. This project was successfully submitted and accepted to the 32nd IEEE Conference on Virtual Reality and 3D User Interfaces (IEEE VR 2025).",
+            "link": "Want to know more?",
+            "pdf": "/pdfs/Konference_Submission.pdf"
+        },
+        {
+            "id": "3",
+            "src": "./img/sensless.png",
+            "title": "Sensless",
+            "description": "Sensless is a multi-sensory escape room game that challenges players to rely on more than just sight and sound. Designed to explore how storytelling and sensory input shape player experience, the project emphasizes narrative immersion through tactile, auditory, and interactive elements. It investigates how story-driven design can deepen engagement and enhance the feeling of presence in gameplay.",
+            "link": "Want to know more?",
+            "pdf": "/pdfs/Sensless.pdf"
+        }
+    ]
+}
